@@ -14,10 +14,5 @@ Neste projeto, foi testado habilidades de:
 
 - Conhecimento de MYSQL
 
-### Data de entrega
-
-- Projeto individual;
-- Foi 1 dia de projeto;
-
 ## Creditos
 - Eu (@datavinny)
